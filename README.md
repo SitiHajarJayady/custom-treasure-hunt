@@ -1,6 +1,6 @@
 # custom-treasure-hunt
 
-A custom-built digital treasure hunt system designed for live events with booth-based QR code tracking. Developed for the Antam Family Gathering 2024, this tool helps manage, track, and validate participant activity across multiple stations.
+This repository showcases **event-specific treasure hunt systems** built to meet unique client requirements. Each system was tailored with custom rules, validation logic, booth tracking, and data export tools to support real-time engagement and post-event reporting.
 
 ## Overview
 
